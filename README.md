@@ -1,4 +1,5 @@
 English Version
+
 Enterprise Multi-Router OSPF Routing & Redundancy (GNS3)
 Documentation of a mid-scale enterprise network simulation project using GNS3, implementing OSPF (Open Shortest Path First) Area 0 on a multi-router topology with switch and end-host segmentation.
 
