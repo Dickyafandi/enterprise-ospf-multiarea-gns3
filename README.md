@@ -49,6 +49,7 @@ Start all devices (Routers and Hosts).
 Verify OSPF neighbors using the show ip ospf neighbor command in the router CLI.
 
 Versi Bahasa Indonesia
+
 Enterprise Multi-Router OSPF Routing & Redundancy (GNS3)
 Dokumentasi proyek simulasi jaringan enterprise skala menengah menggunakan GNS3, mengimplementasikan OSPF (Open Shortest Path First) Area 0 pada topologi multi-router dengan segmentasi switch dan end-host.
 
